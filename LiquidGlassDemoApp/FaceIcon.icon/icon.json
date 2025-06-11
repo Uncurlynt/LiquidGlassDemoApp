@@ -1,0 +1,81 @@
+{
+  "fill" : {
+    "linear-gradient" : [
+      "display-p3:0.38514,0.39818,0.38203,1.00000",
+      "display-p3:0.96856,1.00000,0.96434,1.00000"
+    ]
+  },
+  "groups" : [
+    {
+      "blur-material" : 0.5,
+      "hidden" : false,
+      "layers" : [
+        {
+          "glass" : false,
+          "image-name" : "Middle_Finger_Emoji_Icon_ios10.png",
+          "name" : "Middle_Finger_Emoji_Icon_ios10",
+          "position" : {
+            "scale" : 0.35,
+            "translation-in-points" : [
+              -290.0078125,
+              80.2421875
+            ]
+          }
+        },
+        {
+          "glass" : false,
+          "image-name" : "a74f4418-a3e1-4e4d-8415-9579093daaf1-pinching-hand_1f90f.png",
+          "name" : "a74f4418-a3e1-4e4d-8415-9579093daaf1-pinching-hand_1f90f",
+          "position" : {
+            "scale" : 0.26,
+            "translation-in-points" : [
+              286.6640625,
+              61.8671875
+            ]
+          }
+        },
+        {
+          "glass" : false,
+          "image-name" : "dark-sunglasses_1f576.png",
+          "name" : "dark-sunglasses_1f576",
+          "position" : {
+            "scale" : 2.5,
+            "translation-in-points" : [
+              0,
+              89.5
+            ]
+          }
+        },
+        {
+          "glass" : false,
+          "hidden" : false,
+          "image-name" : "face-with-bags-under-eyes_1fae9.png",
+          "name" : "face-with-bags-under-eyes_1fae9",
+          "position" : {
+            "scale" : 3,
+            "translation-in-points" : [
+              0,
+              0
+            ]
+          }
+        }
+      ],
+      "lighting" : "individual",
+      "name" : "none",
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "circles" : [
+      "watchOS"
+    ],
+    "squares" : "shared"
+  }
+}
